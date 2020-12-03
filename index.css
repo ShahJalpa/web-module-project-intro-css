@@ -43,7 +43,8 @@ nav a{
 .container{
     width: 100%;
     display: inline-flex;
-    margin-bottom: 40px;
+    
+    padding: 2% 0;
 }
 
 .header_img{
@@ -77,4 +78,17 @@ h1{
     text-align: center;
 }
 
+.middle{
+    padding: 2% 2%;
+    
+}
 
+.middle p{
+    background-color: #DDB9A3;
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 26px;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
