@@ -109,3 +109,17 @@ h1{
     text-align: center;
     font-family: 'Roboto Mono', monospace;
 }
+
+.images .image_2 img{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   height: 180px;
+   width:180px;
+   padding-top: 1.5%;
+}
+
+.images .image_2 p{
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+}
