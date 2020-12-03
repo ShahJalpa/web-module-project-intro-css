@@ -110,6 +110,10 @@ h1{
     font-family: 'Roboto Mono', monospace;
 }
 
+.restriction{
+    font-weight: bold;
+}
+
 .images .image_2 img{
    display: block;
    margin-left: auto;
@@ -124,6 +128,9 @@ h1{
     font-family: 'Roboto Mono', monospace;
 }
 
+.fee{
+    font-weight: bold;
+}
 /*.footer img{
     height: auto;
     width: 100%;
