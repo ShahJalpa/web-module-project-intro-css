@@ -92,3 +92,20 @@ h1{
     padding-top: 20px;
     padding-bottom: 20px;
 }
+
+.images{
+    padding: 2% 0;
+}
+
+.images .image_1 img{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   height: 200px;
+   width:200px;
+}
+
+.images .image_1 p{
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+}
